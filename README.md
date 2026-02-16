@@ -1,4 +1,4 @@
-# airminal Gateway
+# airminal assistant / AI employee
 
 Your airminal AI agent, everywhere you chat. One process connects your agent to WhatsApp, Telegram, Discord, Slack, Gmail, and more.
 

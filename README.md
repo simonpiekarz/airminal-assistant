@@ -1,6 +1,6 @@
 # Airminal Assistant — Your AI Employee, Everywhere You Chat
 
-One lightweight process connects your AI agent to every platform you use. WhatsApp, Telegram, Discord, Slack, Gmail — your assistant listens, responds, and gets work done across all of them simultaneously. It can manage your files, search the web, control your computer, query your databases, manage GitHub repos, schedule calendar events, and handle 100+ tasks autonomously. Deploy it on any machine and let it run 24/7.
+One lightweight process connects your <a href="https://airminal.com">airminal AI agent</a> to every platform you use. WhatsApp, Telegram, Discord, Slack, Gmail — your assistant listens, responds, and gets work done across all of them simultaneously. It can manage your files, search the web, control your computer, query your databases, manage GitHub repos, schedule calendar events, and handle 100+ tasks autonomously. Deploy it on any machine and let it run 24/7.
 
 ## How It Works
 
